@@ -1,0 +1,35 @@
+.submit-function {
+    width: 76px;
+    margin-left: 46%;
+    background-color: #4abcff;
+    text-align: center;
+    margin-bottom: 4px;
+    margin-top: -13px; 
+}
+
+.function-box {
+    margin-left: 10px;
+    width: 97%;
+    margin-top: 10px; 
+    border: 2px solid #2768ca ;
+    border-radius: 5px;
+}
+.title{
+    margin-left:31%;
+}
+.result {
+    border: 1px solid #2768ca ;
+    margin-top: 6px; 
+    display: none;
+}
+.button-close{ 
+    height: 15%;
+    margin-top: -6%;
+    float: right;
+    margin-right: 5%;
+}
+
+.spinner{
+    margin-left: 46%;
+    margin-top: 12px;
+}
