@@ -23,7 +23,7 @@
     "cheeseburger-menu": "0.0.13",
     "css-loader": "^2.1.1",
     "electron-localshortcut": "^1.1.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "local-storage": "^2.0.0",
     "moment": "^2.18.1",
     "moment-duration-format": "^1.3.0",
